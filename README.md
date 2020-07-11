@@ -28,3 +28,53 @@ Table Names	Description	Records
  PRODUCTS	store product information	288 records
  REGIONS	store regions where the company operates	4 records
  WAREHOUSES	store warehouse information	9 records
+ 
+ Oracle native JSON:
+
+https://oracle-base.com/articles/12c/json-support-in-oracle-database-12cr1#introduction-to-json
+
+
+Materialized View:
+
+https://oracle-base.com/articles/misc/materialized-views
+
+
+List Agg:
+
+https://oracle-base.com/articles/12c/listagg-function-enhancements-12cr2
+
+
+REST:
+
+https://dzone.com/articles/oracle-rest-data-services-on-autonomous-transactio
+
+https://oracle-base.com/articles/misc/oracle-rest-data-services-ords-create-basic-rest-web-services-using-plsql
+
+https://panoplytechen.wordpress.com/2019/09/01/first-steps-with-oracle-rest-data-services-on-windows/
+
+XML:
+
+https://oracle-base.com/articles/misc/sqlxml-sqlx-generating-xml-content-using-sql
+
+APEX:
+
+https://oracle-base.com/articles/misc/oracle-application-express-apex-installation
+
+QUEUE:
+
+https://oracle-base.com/articles/9i/advanced-queuing-9i
+
+Scheduler Job:
+
+https://oracle-base.com/articles/10g/scheduler-10g
+
+Oracle Cloud:
+Compute Instance: https://docs.cloud.oracle.com/en-us/iaas/Content/Compute/Tasks/managingkeypairs.htm
+
+Create Autonomous Database: https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/tutorial-getting-started-autonomous-db/index.html
+
+SQL Developer Web: https://docs.oracle.com/en/cloud/paas/atp-cloud/atpug/sql-developer-web.html#GUID-102845D9-6855-4944-8937-5C688939610F
+
+APEX: https://www.youtube.com/watch?v=VlYa5xkF_kE
+
+
